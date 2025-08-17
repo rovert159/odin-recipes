@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.parent {
+    background-color: rgb(210, 252, 252);
+    padding: 8px;
+    text-align: center;
+}
+
+h1 {
+    background-color: white;
+    width: fit-content;
+    padding: 6px 12px;
+    margin: 0 auto;
+    margin-bottom: 8px;
+}
+.child {
+    background-color: white;
+    width: fit-content;
+    padding: 6px 12px;
+    margin: 0 auto;
+    margin-bottom: 12px;
+}
